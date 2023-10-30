@@ -1,0 +1,61 @@
+$date
+	Thu Oct 26 16:16:32 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module comps_tb $end
+$var wire 1 ! y $end
+$var wire 1 " x $end
+$var wire 1 # w $end
+$var reg 1 $ a $end
+$var reg 1 % b1 $end
+$var reg 1 & b2 $end
+$var reg 1 ' c1 $end
+$var reg 1 ( c2 $end
+$scope module uut $end
+$var wire 1 $ a $end
+$var wire 1 % b1 $end
+$var wire 1 & b2 $end
+$var wire 1 ' c1 $end
+$var wire 1 ( c2 $end
+$var wire 1 " x $end
+$var wire 1 ! y $end
+$var wire 1 # w $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0(
+0'
+0&
+0%
+0$
+1#
+0"
+0!
+$end
+#10
+1!
+1'
+1%
+0#
+1$
+#20
+1(
+0'
+1&
+0%
+1#
+0$
+#30
+1"
+1'
+1%
+0#
+1$
+#40
